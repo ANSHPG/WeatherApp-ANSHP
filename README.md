@@ -1,4 +1,7 @@
 # WeatherApp-ANSHP
+
+![Screenshot 2023-08-08 183952](https://github.com/ANSHPG/WeatherApp-ANSHP/assets/132222062/3432d856-821a-49ba-a7db-b790113f11d5)
+
 AnshpCast is a user-friendly weather application developed by Anshuman Pattnaik using HTML, CSS, and JavaScript. It provides real-time weather information for various locations worldwide, enabling users to stay informed about the current weather conditions.
 Features:
 
